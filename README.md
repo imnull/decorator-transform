@@ -8,14 +8,14 @@
 
 ## Todo list
 
-- 类装饰器（Class Decorator）✅
-- 方法装饰器（Method Decorator）✅
-- 访问器装饰器（Accessor Decorator）✅
-- 属性装饰器（Property Decorator）✅
-- 参数装饰器（Parameter Decorator）❌
-- 装饰器工厂（Decorator Factory）✅
+- ✅ 类装饰器（Class Decorator）
+- ✅ 方法装饰器（Method Decorator）
+- ✅ 访问器装饰器（Accessor Decorator）
+- ✅ 属性装饰器（Property Decorator）
+- ✅ 装饰器工厂（Decorator Factory）
+- ❌ 参数装饰器（Parameter Decorator）
 
-*参数装饰器（Parameter Decorator）实现成本太高了，还要额外借助其他的工具包。*
+*参数装饰器（Parameter Decorator）实现成本略高，还要额外借助其他的工具包。短期不打算实现。*
 
 ## Demo
 
